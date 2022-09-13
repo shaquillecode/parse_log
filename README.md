@@ -1,2 +1,2 @@
 # Parse the log file
-This is a simple log parser which will find IP address (source or destination) that appears most commonly in the log
+This is a simple python script which will find the IP address that appears most commonly in a given log file.
